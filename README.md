@@ -3,15 +3,13 @@
 ## 게임 컨셉
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/106237199/200339263-185e1bf7-03bd-49f1-b5f4-a1fd4427a282.png" width="600" height="150"/>
-<img src="https://user-images.githubusercontent.com/106237199/200339400-15d2a1f6-ec79-4f6d-a042-76b656758a09.png" width="600" height="150"/>
+<img src="https://user-images.githubusercontent.com/106237199/200339263-185e1bf7-03bd-49f1-b5f4-a1fd4427a282.png" width="600" height="300"/>
+<img src="https://user-images.githubusercontent.com/106237199/200339400-15d2a1f6-ec79-4f6d-a042-76b656758a09.png" width="600" height="300"/>
 </p>
 
-<p align="justify">
 - 적들이 가득한 우주선에서 적을 죽이고 미션을 달성해 탈출하는 3인칭 게임
 - 구성 방식이 다른 세가지 스테이지로 구성
 - 미니 게임 형식의 스테이지 1, 적 캐릭터로 구성된 스테이지 2, 제한 시간 안에 통과해야 하는 스테이지 3
-</p>
 <br><br>
 
 ## 기술 스택

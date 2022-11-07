@@ -18,8 +18,7 @@
 | :--------: | :--------: |
 |   <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white">    |   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black">    |
 
-<br><br>
-
+<br>
 
 ## 게임 실행 방법
 - GameFile 폴더의 탈출!스타십우주비행선.zip 파일 다운로드

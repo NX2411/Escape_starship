@@ -3,8 +3,8 @@
 ## 게임 컨셉
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/106237199/200339263-185e1bf7-03bd-49f1-b5f4-a1fd4427a282.png" width="600" height="300"/>
-<img src="https://user-images.githubusercontent.com/106237199/200339400-15d2a1f6-ec79-4f6d-a042-76b656758a09.png" width="600" height="300"/>
+<img src="https://user-images.githubusercontent.com/106237199/200339263-185e1bf7-03bd-49f1-b5f4-a1fd4427a282.png" width="600" height="350"/>
+<img src="https://user-images.githubusercontent.com/106237199/200339400-15d2a1f6-ec79-4f6d-a042-76b656758a09.png" width="600" height="350"/>
 </p>
 
 - 적들이 가득한 우주선에서 적을 죽이고 미션을 달성해 탈출하는 3인칭 게임
@@ -14,9 +14,9 @@
 
 ## 기술 스택
 
-| Java | Firebase | 
+| C# | Unity | 
 | :--------: | :--------: |
-|   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white">    |   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black">    |
+|   <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white">    |   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black">    |
 
 <br><br>
 
